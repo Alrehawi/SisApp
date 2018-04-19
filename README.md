@@ -1,6 +1,6 @@
 # YemenSIS Application 
 
-
+This Application is created to be integrated with YSIS Application (Yemen Student Information System)
 
 ## [config.xml][config-xml]
 
