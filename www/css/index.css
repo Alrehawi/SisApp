@@ -1,0 +1,20 @@
+h1,h2,h3,h4,h5,lead,p{
+  
+/*font-family: 'Source Sans Pro', sans-serif;*/
+font-family: 'Cairo', sans-serif;
+}
+
+.well ,.serv,.pric{
+
+background: #2f2c2c;
+
+}
+.fa {
+
+    font-size: 40px;
+}
+.thumpnail {
+
+
+    width: 100%;
+}
